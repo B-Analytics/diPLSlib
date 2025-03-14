@@ -43,8 +43,7 @@ def dipals(x, y, xs, xt, A, l, heuristic: bool = False, target_domain=0, laplaci
         Regularization parameter. If a single value is provided, the same regularization is applied to all latent variables.
 
     heuristic : bool, default=False
-        If True, automatically determine the regularization parameter to equally balance fitting 
-        to Y and minimizing domain discrepancy.
+        If True, automatically determine the regularization parameter to equally balance fitting Y and minimizing domain discrepancy.
 
     target_domain : int, default=0
         Specifies which target domain the model should apply to, where 0 indicates the source domain.
