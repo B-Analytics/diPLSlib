@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.4.3] - 2025-03-14
+
+### Added
+- Demo of the heuristic regularization parameter selection for the `DIPLS` class.
+
+### Changed
+- Changed the `demo_ModelSelection.ipynb` notebook to include a demonstration of the heuristic regularization parameter selection for the `DIPLS` class.
+
+### Fixed
+- N/A
+
+### Removed
+- N/A
+
+### Breaking Changes
+- N/A
+
 ## [2.4.2] - 2024-12-13
 
 ### Added
